@@ -1,15 +1,20 @@
-﻿#include <iostream>
+#include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
-int main()
+void main()
 {
+	int n;
+	int m;
+	int k;
 	vector<int> v;
-	int n; //배열의 크기
-	int m; //숫자가 더해지는 횟수
-	int k; //연속으로 더할 수 있는 횟수
-	
-	cin >> n >> m >> k;
+
+	int index = 0;
+
+	cin >> n;
+	cin >> m;
+	cin >> k;
 
 	for (int i = 0; i < n; i++)
 	{
@@ -17,5 +22,46 @@ int main()
 		cin >> a;
 		v.push_back(a);
 	}
-	cout << v.size();
+
+	int largestNum = v[0];
+	int secondlargestNum = v[0];
+	int largestCount = 0;
+
+	for (int num : v)
+	{
+		if (num > largestNum)
+		{
+			secondlargestNum = largestNum;
+			largestNum = num;
+		}
+		else if (num > secondlargestNum && num < largestNum) {
+			secondlargestNum = num;
+		}
+	}
+
+	largestCount = count(v.begin(), v.end(), largestNum);
+
+	int y;
+	y = k;
+
+	for (int j = 0; j < m; j++)
+	{
+		if (k != 0)
+		{
+			index += largestNum;
+			k--;
+		}
+		else if (k == 0 && largestCount == 1)
+		{
+			index += secondlargestNum;
+			k = y;
+		}
+		else
+		{
+			index += largestNum;
+			k = y;
+		}
+	}
+
+	cout << index << endl;
 }
