@@ -13,3 +13,7 @@
 #### 1.3. 그리디 숫자 카드 게임 문제: [Github][3_link], [Notion][3_3_link]
 [3_link]: https://github.com/hb2133/23-1Coding-test/blob/main/Greedy_3/Greedy_3.cpp "그리디 숫자 카드 게임 문제 코드"
 [3_3_link]: https://solar-plot-07f.notion.site/3-_-5f595991d9794375ad025180342fc838?pvs=4 "그리디 숫자 카드 게임 문제 설명"
+
+#### 1.3. 그리디 숫자 카드 게임 문제: [Github][4_link], [Notion][4_4_link]
+[4_link]: https://github.com/hb2133/23-1Coding-test/blob/main/Greedy_4/Greedy_4.cpp "그리디 1이 될 때까지 문제 코드"
+[4_4_link]: https://solar-plot-07f.notion.site/4-_1-0f4df1b3ebdb4f7eb1e24f5f7580b5aa?pvs=4 "그리디 1이 될 때까지 문제 설명"
