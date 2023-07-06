@@ -21,3 +21,7 @@
 #### 2.1. 상하좌우 문제: [Github][5_link], [Notion][5_5_link]
 [5_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.cpp "상하좌우 문제 코드"
 [5_5_link]: https://solar-plot-07f.notion.site/5-eafbe86b43f14bfc8473d3863d960805?pvs=4 "상하좌우 문제 설명"
+
+#### 2.2. 시각 문제: [Github][6_link], [Notion][6_6_link]
+[6_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%8B%9C%EA%B0%81/%EC%8B%9C%EA%B0%81.cpp "시각 문제 코드"
+[6_6_link]: https://solar-plot-07f.notion.site/6-058b8597f3e1495ba920b6e6b7c75340?pvs=4 "시각 문제 설명"
