@@ -17,3 +17,7 @@
 #### 1.4. 그리디 1이 될 때까지 문제: [Github][4_link], [Notion][4_4_link]
 [4_link]: https://github.com/hb2133/23-1Coding-test/blob/main/Greedy_4/Greedy_4.cpp "그리디 1이 될 때까지 문제 코드"
 [4_4_link]: https://solar-plot-07f.notion.site/4-_1-0f4df1b3ebdb4f7eb1e24f5f7580b5aa?pvs=4 "그리디 1이 될 때까지 문제 설명"
+
+#### 2.1. 상하좌우 문제: [Github][5_link], [Notion][5_5_link]
+[5_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.cpp "상하좌우 문제 코드"
+[5_5_link]: https://solar-plot-07f.notion.site/5-eafbe86b43f14bfc8473d3863d960805?pvs=4 "상하좌우 문제 설명"
