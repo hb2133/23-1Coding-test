@@ -25,3 +25,7 @@
 #### 2.2. 시각 문제: [Github][6_link], [Notion][6_6_link]
 [6_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%8B%9C%EA%B0%81/%EC%8B%9C%EA%B0%81.cpp "시각 문제 코드"
 [6_6_link]: https://solar-plot-07f.notion.site/6-058b8597f3e1495ba920b6e6b7c75340?pvs=4 "시각 문제 설명"
+
+#### 2.3. 왕실의 나이트 문제: [Github][7_link], [Notion][7_7_link]
+[7_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8/%EC%99%95%EC%8B%A4%EC%9D%98%EB%82%98%EC%9D%B4%ED%8A%B8.cpp "왕실의 나이트 문제 코드"
+[7_7_link]: https://solar-plot-07f.notion.site/7-381d6e4ab11e46978e07a434a39399d3?pvs=4 "왕실의 나이트 문제 설명"
