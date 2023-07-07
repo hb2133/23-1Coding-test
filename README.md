@@ -33,3 +33,4 @@
 #### 2.4. 게임 개발 문제: [Github][8_link], [Notion][8_8_link]
 [8_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C/%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C.cpp "게임 개발 문제 코드"
 [8_8_link]: https://solar-plot-07f.notion.site/7-381d6e4ab11e46978e07a434a39399d3?pvs=4 "게임 개발 문제 설명"
+* * *
