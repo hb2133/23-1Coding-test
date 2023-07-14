@@ -2,22 +2,19 @@
 #include <vector>
 using namespace std;
 
-void DFS(int node, vector<vector<int>>& adj, vector<bool>& visited)
+vector<vector<bool>> visited;
+
+void DFS(int x, int y, vector<vector<int>>& adj, int n, int m)
 {
-	visited[node] = true;
+	if (x < 0 || y < 0 || x >= n || y >= m || visited[x][y] || adj[x][y] != 0)
+		return;
 
-	for (int i = 0; i < adj[node].size(); i++)
-	{
-		int child = adj[node][i];
+	visited[x][y] = true;
 
-		if (!visited[child])
-		{
-			DFS(child, adj, visited);
-		}
-	}
-
-
-
+	DFS(x + 1, y, adj, n, m);
+	DFS(x - 1, y, adj, n, m);
+	DFS(x, y+1, adj, n, m);
+	DFS(x, y-1, adj, n, m);
 }
 
 int main(void)
@@ -25,21 +22,31 @@ int main(void)
 	int x, y;
 	cin >> x >> y;
 
-	vector<vector<int>> ary(x);
-	vector<bool>visited(x, false);
+	vector<vector<int>> ary(x, vector<int>(y));
+	visited.resize(x, vector<bool>(y, false));
 
 	for (int i = 0; i < x; i++)
 	{
 		for (int j = 0; j < y; j++)
 		{
-			int n;
-			cin >> n;
-			ary[i].push_back(n);
+			cin >> ary[i][j];
 		}
-		cout << endl;
 	}
 
-	DFS(0, ary, visited);
+	int count = 0;
+	for (int i = 0; i < x; i++)
+	{
+		for (int j = 0; j < y; j++)
+		{
+			if (!visited[i][j] && ary[i][j] == 0)
+			{
+				DFS(i, j, ary, x, y);
+				count++;
+			}
+		}
+	}
+
+	cout << count << endl;
 
 	return 0;
 }
