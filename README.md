@@ -34,3 +34,6 @@
 [8_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C/%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C.cpp "게임 개발 문제 코드"
 [8_8_link]: https://solar-plot-07f.notion.site/8-_-d82e5650592b4f30815b9c5555eb6a23?pvs=4 "게임 개발 문제 설명"
 * * *
+#### 3.1. 깊이탐색 음료수 얼려 먹기 문제: [Github][9_link], [Notion][9_9_link]
+[9_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.cpp "음료수 얼려 먹기 문제 코드"
+[9_9_link]: https://solar-plot-07f.notion.site/9-DFS_-4cba9d5a1b5f426580049fefa807b04d?pvs=4 "음료수 얼려 먹기 문제 설명"
