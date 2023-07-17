@@ -37,3 +37,7 @@
 #### 3.1. 깊이탐색 음료수 얼려 먹기 문제: [Github][9_link], [Notion][9_9_link]
 [9_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.cpp "음료수 얼려 먹기 문제 코드"
 [9_9_link]: https://solar-plot-07f.notion.site/9-DFS_-4cba9d5a1b5f426580049fefa807b04d?pvs=4 "음료수 얼려 먹기 문제 설명"
+
+#### 3.1. 넓이탐색 미로 탈출 문제: [Github][10_link], [Notion][10_10_link]
+[10_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C/%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C.cpp "미로 탈출 문제 코드"
+[10_10_link]: https://solar-plot-07f.notion.site/10-BFS_-6d8de667ded14f1889eaf34722bdf8b0?pvs=4 "미로 탈출 문제 설명"
