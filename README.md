@@ -41,3 +41,7 @@
 #### 3.1. 넓이탐색 미로 탈출 문제: [Github][10_link], [Notion][10_10_link]
 [10_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C/%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C.cpp "미로 탈출 문제 코드"
 [10_10_link]: https://solar-plot-07f.notion.site/10-BFS_-6d8de667ded14f1889eaf34722bdf8b0?pvs=4 "미로 탈출 문제 설명"
+* * *
+#### 4.1. 선택 정렬: [Github][11_link], [Notion][11_11_link]
+[11_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC/selection_sort.cpp "선택 정렬 코드"
+[11_11_link]:  "선택 정렬 설명"
