@@ -44,4 +44,4 @@
 * * *
 #### 4.1. 선택 정렬: [Github][11_link], [Notion][11_11_link]
 [11_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC/selection_sort.cpp "선택 정렬 코드"
-[11_11_link]:  "선택 정렬 설명"
+[11_11_link]: https://solar-plot-07f.notion.site/11-607158ae78264ac88f369a5c2ec09ae3?pvs=4 "선택 정렬 설명"
