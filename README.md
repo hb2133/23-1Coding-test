@@ -45,3 +45,11 @@
 #### 4.1. 선택 정렬: [Github][11_link], [Notion][11_11_link]
 [11_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC/selection_sort.cpp "선택 정렬 코드"
 [11_11_link]: https://solar-plot-07f.notion.site/11-607158ae78264ac88f369a5c2ec09ae3?pvs=4 "선택 정렬 설명"
+
+#### 4.2. 삽입 정렬: [Github][12_link], [Notion][12_12_link]
+[12_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC/insertion%20sort.cpp "삽입 정렬 코드"
+[12_12_link]: https://solar-plot-07f.notion.site/11-607158ae78264ac88f369a5c2ec09ae3?pvs=4 "삽입 정렬 설명"
+
+#### 4.3. 퀵 정렬: [Github][13_link], [Notion][13_13_link]
+[13_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%ED%80%B5%EC%A0%95%EB%A0%AC/quick_sort.cpp "퀵 정렬 코드"
+[13_13_link]: https://solar-plot-07f.notion.site/11-607158ae78264ac88f369a5c2ec09ae3?pvs=4 "퀵 정렬 설명"
