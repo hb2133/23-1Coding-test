@@ -55,9 +55,9 @@
 [13_13_link]: https://solar-plot-07f.notion.site/11-607158ae78264ac88f369a5c2ec09ae3?pvs=4 "퀵 정렬 설명"
 
 #### 4.4. 계수 정렬: [Github][14_link], [Notion][14_14_link]
-[14_link]:https://github.com/hb2133/23-1Coding-test/blob/main/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC/counting_sort.cpp "계수 정렬 코드"
+[14_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC/counting_sort.cpp "계수 정렬 코드"
 [14_14_link]: https://solar-plot-07f.notion.site/11-607158ae78264ac88f369a5c2ec09ae3?pvs=4 "계수 정렬 설명"
 
-#### 4.4. 선택정렬 위에서 아래로: [Github][15_link], [Notion][15_15_link]
-[15_link]: "위에서 아래로 문제 코드"
+#### 4.5. 선택정렬 위에서 아래로: [Github][15_link], [Notion][15_15_link]
+[15_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC_%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C/%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C.cpp "위에서 아래로 문제 코드"
 [15_15_link]: https://solar-plot-07f.notion.site/12-_-7a2f4c4a5e4145609b7fe9c34d79e383?pvs=4 "위에서 아래로 문제 설명"
