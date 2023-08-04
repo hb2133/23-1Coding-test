@@ -65,3 +65,7 @@
 #### 4.6. 정렬 성적이 낮은 순서로 학생 출력하기: [Github][16_link], [Notion][16_16_link]
 [16_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%A0%95%EB%A0%AC_%EC%84%B1%EC%A0%81%EC%9D%B4%20%EB%82%AE%EC%9D%80%20%EC%88%9C%EC%84%9C%EB%A1%9C%20%ED%95%99%EC%83%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/%EC%84%B1%EC%A0%81%EC%9D%B4%20%EB%82%AE%EC%9D%80%20%EC%88%9C%EC%84%9C%EB%A1%9C%20%ED%95%99%EC%83%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp "성적이 낮은 순서로 학생 출력하기 문제 코드"
 [16_16_link]: https://solar-plot-07f.notion.site/12-_-05932dbbf0a6425f980a326c754f0732?pvs=4 "성적이 낮은 순서로 학생 출력하기 문제 설명"
+
+#### 4.7. 정렬 두 배열의 원소 교체: [Github][17_link], [Notion][17_17_link]
+[17_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%A0%95%EB%A0%AC_%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4/%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4.cpp "두 배열의 원소 교체 문제 코드"
+[17_17_link]: https://solar-plot-07f.notion.site/14-c3fc7f04f951419e9c2180d737b83dce?pvs=4 "두 배열의 원소 교체 문제 설명"
