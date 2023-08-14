@@ -70,3 +70,15 @@
 [17_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%A0%95%EB%A0%AC_%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4/%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4.cpp "두 배열의 원소 교체 문제 코드"
 [17_17_link]: https://solar-plot-07f.notion.site/14-c3fc7f04f951419e9c2180d737b83dce?pvs=4 "두 배열의 원소 교체 문제 설명"
 * * *
+#### 5.1. 이진탐색: [Github][18_link], [Notion][18_18_link]
+[18_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89.cpp "이진탐색 코드"
+[18_18_link]: https://solar-plot-07f.notion.site/15-c0e6b759364e42238703890f621dc421?pvs=4 "이진탐색 설명"
+
+#### 5.2. 이진탐색 부품 찾기: [Github][19_link], [Notion][19_19_link]
+[19_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%B6%80%ED%92%88%20%EC%B0%BE%EA%B8%B0/%EB%B6%80%ED%92%88%EC%B0%BE%EA%B8%B0.cpp "부품 찾기 문제 코드"
+[19_19_link]: https://solar-plot-07f.notion.site/16-_-f96a5c9b1a744bd88ddc950102117dd9?pvs=4 "부품 찾기 문제 설명"
+
+#### 5.3. 이진탐색 떡볶이 떡 만들기: [Github][20_link], [Notion][20_20_link]
+[20_link]: https://github.com/hb2133/23-1Coding-test/commit/d069cdfaeb903ad83efbb4080f260c598a74bfb1 "떡볶이 떡 만들기 문제 코드"
+[20_20_link]: https://solar-plot-07f.notion.site/17-_-15247a41e56f4cd2911e1df0d9c7348c?pvs=4 "떡볶이 떡 만들기 문제 설명"
+* * *
