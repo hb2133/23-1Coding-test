@@ -82,15 +82,15 @@
 [20_link]: https://github.com/hb2133/23-1Coding-test/commit/d069cdfaeb903ad83efbb4080f260c598a74bfb1 "떡볶이 떡 만들기 문제 코드"
 [20_20_link]: https://solar-plot-07f.notion.site/17-_-15247a41e56f4cd2911e1df0d9c7348c?pvs=4 "떡볶이 떡 만들기 문제 설명"
 * * *
-#### 6.1. 다이나믹 프로그래밍 탑다운: [Github][19_link], [Notion][19_19_link]
-[19_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%ED%83%91%EB%8B%A4%EC%9A%B4/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%ED%83%91%EB%8B%A4%EC%9A%B4.cpp "다이나믹 프로그래밍 탑다운 코드"
-[19_19_link]: https://solar-plot-07f.notion.site/18-4cb4d06e894b41d1865f2a6748d26d17?pvs=4 "다이나믹 프로그래밍 설명"
+#### 6.1. 다이나믹 프로그래밍 탑다운: [Github][21_link], [Notion][21_21_link]
+[21_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%ED%83%91%EB%8B%A4%EC%9A%B4/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%ED%83%91%EB%8B%A4%EC%9A%B4.cpp "다이나믹 프로그래밍 탑다운 코드"
+[21_21_link]: https://solar-plot-07f.notion.site/18-4cb4d06e894b41d1865f2a6748d26d17?pvs=4 "다이나믹 프로그래밍 설명"
 
-#### 6.2. 다이나믹 프로그래밍 바텀업: [Github][20_link], [Notion][20_20_link]
-[20_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%B0%94%ED%85%80%EC%97%85/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%B0%94%ED%85%80%EC%97%85.cpp "다이나믹 프로그래밍 바텀업 코드"
-[20_20_link]: https://solar-plot-07f.notion.site/18-4cb4d06e894b41d1865f2a6748d26d17?pvs=4 "다이나믹 프로그래 설명"
+#### 6.2. 다이나믹 프로그래밍 바텀업: [Github][22_link], [Notion][22_22_link]
+[22_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%B0%94%ED%85%80%EC%97%85/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EB%B0%94%ED%85%80%EC%97%85.cpp "다이나믹 프로그래밍 바텀업 코드"
+[22_22_link]: https://solar-plot-07f.notion.site/18-4cb4d06e894b41d1865f2a6748d26d17?pvs=4 "다이나믹 프로그래 설명"
 
-#### 6.3. 다이나믹 프로그래밍 1만들기: [Github][21_link], [Notion][21_21_link]
-[21_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_1%EB%A7%8C%EB%93%A4%EA%B8%B0/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_1%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp "다이나믹 프로그래밍 1만들기 문제 코드"
-[21_21_link]: https://solar-plot-07f.notion.site/17-DP_1-3137f49e1e9e45b6b251a655de60bfa0?pvs=4 "다이나믹 프로그래밍 1만들기 문제 설명"
+#### 6.3. 다이나믹 프로그래밍 1만들기: [Github][23_link], [Notion][23_23_link]
+[23_link]: https://github.com/hb2133/23-1Coding-test/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_1%EB%A7%8C%EB%93%A4%EA%B8%B0/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_1%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp "다이나믹 프로그래밍 1만들기 문제 코드"
+[23_23_link]: https://solar-plot-07f.notion.site/17-DP_1-3137f49e1e9e45b6b251a655de60bfa0?pvs=4 "다이나믹 프로그래밍 1만들기 문제 설명"
 * * *
