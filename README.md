@@ -2,7 +2,7 @@
 2023년 호서대학교 게임학과 하계 방학   
 **코딩테스트 준비**
 #### 정리 노션: [Notion][0_link]
-[0_link]: https://solar-plot-07f.notion.site/801690226d8b4a239baaa415b3449113?pvs=4 "코딩 테스트 준비 노션"
+[0_link]: https://solar-plot-07f.notion.site/2ec4e96e9b00455fbb569d07313c0317?pvs=4 "코딩 테스트 준비 노션"
 * * *
 #### 1.1. 그리디 거스름돈 문제: [Github][1_link], [Notion][1_1_link]
 [1_link]: https://github.com/hb2133/23-1Coding-test/blob/main/Greedy/Greedy.cpp "그리디 거스름돈 문제 코드"
